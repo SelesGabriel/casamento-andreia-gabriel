@@ -1,0 +1,193 @@
+#navBar :hover{
+  background-color: #99caeb;
+  transition:all 0.9s ease;
+  border-radius: 6px;
+  box-shadow: 13px 5px 5px #273a63;
+}
+
+#navBar
+{
+  color:black;
+  font-weight: bolder;
+}
+
+
+@media (min-width: 300px) {
+  #nomeNoivos {
+    margin: 18% 5.5%;
+    margin-bottom: 1rem;
+    position: absolute;
+    font-size: 1.6em;
+  }
+}
+
+@media (min-width: 576px) {
+  #nomeNoivos {
+    margin: 18% 5.5%;
+    margin-bottom: 1rem;
+    position: absolute;
+    font-size: 2.5em;
+  }
+}
+
+@media (min-width: 768px) {
+  #nomeNoivos {
+    margin: 18% 5.5%;
+    margin-bottom: 1rem;
+    position: absolute;
+    font-size: 3.5em;
+  }
+}
+
+@media (min-width: 992px) {
+  #nomeNoivos {
+    margin: 18% 5.5%;
+    margin-bottom: 1rem;
+    position: absolute;
+    font-size: 5em;
+  }
+}
+
+@media (min-width: 1200px) {
+  #nomeNoivos {
+    margin: 18% 5.5%;
+    margin-bottom: 1rem;
+    position: absolute;
+    font-size: 6.3em;
+  }
+}
+
+@media (min-width: 300px) {
+  #saveTheData {
+    margin: 25% 13%;
+    margin-bottom: 1rem;
+    position: absolute;
+    font-size: 1.2em;
+  }
+}
+
+@media (min-width: 576px) {
+  #saveTheData {
+    margin: 25.5% 13%;
+    margin-bottom: 1rem;
+    position: absolute;
+    font-size: 2em;
+  }
+}
+
+@media (min-width: 768px) {
+  #saveTheData {
+    margin: 26% 13%;
+    margin-bottom: 1rem;
+    position: absolute;
+    font-size: 2.7em;
+  }
+}
+
+@media (min-width: 992px) {
+  #saveTheData {
+    margin: 26% 13%;
+    margin-bottom: 1rem;
+    position: absolute;
+    font-size: 3.5em;
+  }
+}
+
+@media (min-width: 1200px) {
+  #saveTheData {
+    margin: 27% 13%;
+    margin-bottom: 1rem;
+    position: absolute;
+    font-size: 4.3em;
+  }
+}
+
+@media (min-width: 300px) {
+  #data {
+    margin: 30% 13%;
+    margin-bottom: 1rem;
+    position: absolute;
+    font-size: 1.2em;
+  }
+}
+
+@media (min-width: 576px) {
+  #data {
+    margin: 31% 13%;
+    margin-bottom: 1rem;
+    position: absolute;
+    font-size: 2em;
+  }
+}
+
+@media (min-width: 768px) {
+  #data {
+    margin: 32% 13%;
+    margin-bottom: 1rem;
+    position: absolute;
+    font-size: 2.7em;
+  }
+}
+
+@media (min-width: 992px) {
+  #data {
+    margin: 32% 13%;
+    margin-bottom: 1rem;
+    position: absolute;
+    font-size: 3.5em;
+  }
+}
+
+@media (min-width: 1200px) {
+  #data {
+    margin: 34% 13%;
+    margin-bottom: 1rem;
+    position: absolute;
+    font-size: 4.3em;
+  }
+}
+
+@media (min-width: 300px) {
+  #diasRestantes {
+    margin: 35% 10%;
+    margin-bottom: 1rem;
+    position: absolute;
+    font-size: 1.2em;
+  }
+}
+
+@media (min-width: 576px) {
+  #diasRestantes {
+    margin: 36.5% 10%;
+    margin-bottom: 1rem;
+    position: absolute;
+    font-size: 1.8em;
+  }
+}
+
+@media (min-width: 768px) {
+  #diasRestantes {
+    margin: 38% 10%;
+    margin-bottom: 1rem;
+    position: absolute;
+    font-size: 2.7em;
+  }
+}
+
+@media (min-width: 992px) {
+  #diasRestantes {
+    margin: 38% 10%;
+    margin-bottom: 1rem;
+    position: absolute;
+    font-size: 3.5em;
+  }
+}
+
+@media (min-width: 1200px) {
+  #diasRestantes {
+    margin: 41% 10%;
+    margin-bottom: 1rem;
+    position: absolute;
+    font-size: 3.5em;
+  }
+}
