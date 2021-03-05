@@ -1,3 +1,11 @@
+#descricaoFotos {
+  font-size: 3vh;
+}
+
+#imgBackground {
+  position: absolute;
+}
+
 @media (min-width: 300px) {
   #nomeNoivos {
     margin: 20% 7%;
