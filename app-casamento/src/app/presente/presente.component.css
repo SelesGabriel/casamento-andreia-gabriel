@@ -1,0 +1,20 @@
+#btnListaPresente{
+  background: linear-gradient(#c4d0ea,#edf8fa);
+  border-radius: 10px;
+  width: 18vw;
+  height: 4vw;
+  margin-bottom: 40px;
+  font-size:1.6vw;
+  font-family: 'Chewy', cursive;
+}
+
+#btnListaPresente:hover{
+  background: linear-gradient(#a5c0fa,#bfebf3);
+  border-radius: 10px;
+  transition:all 0.9s ease;
+  width: 18vw;
+  height: 4vw;
+  margin-bottom: 40px;
+  font-size:2.2vw;
+  font-family: 'Chewy', cursive;
+}
